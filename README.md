@@ -8,7 +8,7 @@ This repo has detailed instructions on the process of translating a gas function
 
 * **Also, make sure to include those arraies from the .npy file to your gas function.**
 
-* **Now look at a gas function that is in PyBoltz. For example, DME.pyx, as its a short function. This will give you an insight on how the function should look.**
+* **Now look at a gas function that is in PyGasMix. For example, DME.pyx, as its a short function. This will give you an insight on how the function should look.**
 
 * **Make sure to map the COMMON block variables to the corresponding ones in the Gasmix object. Check the Gas.pxd object to see the list of the variables the Fortran COMMON block variables map to.**
 
